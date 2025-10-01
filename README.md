@@ -1,3 +1,5 @@
+![Workflow Overview](screenshots/workflow-overview.png)
+
 # AI Gmail Responder: Draft Email Replies
 
 **Automatically drafts professional replies to incoming Gmail emails using AI.**  
@@ -13,13 +15,6 @@ This workflow is built with **n8n** and uses **Cohere’s free AI model** to hel
 - Creates a draft in Gmail ready to send.
 - Keeps your tone warm, concise, and business-casual.
 - Free to use – powered by Cohere’s free AI plan.  
-
----
-
-## 🖼 Screenshots
-
-### Workflow Overview
-![Workflow Overview](screenshots/workflow-overview.png)
 
 ---
 
