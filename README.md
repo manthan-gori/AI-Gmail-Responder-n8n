@@ -16,6 +16,13 @@ This workflow is built with **n8n** and uses **Cohere’s free AI model** to hel
 
 ---
 
+## 🖼 Screenshots
+
+### Workflow Overview
+![Workflow Overview](screenshots/workflow-overview.png)
+
+---
+
 ## 💻 Tech Stack
 - [n8n](https://n8n.io/) – Workflow automation tool
 - [Gmail API](https://developers.google.com/gmail/api) – To read emails and create drafts
